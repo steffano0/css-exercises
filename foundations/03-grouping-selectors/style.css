@@ -1,0 +1,15 @@
+/* styles.css */
+.one {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
+
+.two {
+    background-color: black;
+    color: white;
+}
+
+.three {
+    background-color: yellow;
+}
